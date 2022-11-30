@@ -1,14 +1,14 @@
 # Speed And Separation Monitoring Algorithm Simulation
 ![Github](https://user-images.githubusercontent.com/102663526/203436526-38d3060c-2118-4cb6-a193-d23d8e8548f8.png)
 
-**Author:** Milan Amighi VUB BruBotics, ...add others... Constantin Scholz IMEC & VUB BruBotics
+**Author:** Milan Amighi (VUB BruBotics), Sébastien Menet (VUB BruBotics), Nima Roshandel (VUB BruBotics), Mariane Shhaitly (VUB BruBotics) and Constantin Scholz (IMEC & VUB BruBotics)
 
 **Email:** constantin.florian.scholz@vub.be
 
 **Code Purpose:** The document 
 
 **Quick Start Guide:**
-
+The following document explains step by step what is Speed and Monitoring algorithm and how to use the code. A video explanation is also available in order to have a quick explanation of how to use it.
 **Video Tutorial:**
 
 **Software:** Compiled on Matlab R2022a
